@@ -161,5 +161,4 @@ cython_debug/
 .local
 .jupyter
 *.parquet
-*.gitconfig
 *.bash_history
