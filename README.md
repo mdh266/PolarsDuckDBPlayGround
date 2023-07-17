@@ -4,7 +4,7 @@
 In this post I quickly covered what I view as the limitations in [Pandas](https://pandas.pydata.org/) library:
 
 
-1. Poor memory usage
+1. High memory usage
 2. Limited multi-core algorithms
 3. No ability to execute SQL statements (like [SparkSQL & DataFrame](https://spark.apache.org/sql/))
 4. No query planning/lazy-execution
